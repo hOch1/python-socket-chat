@@ -7,6 +7,7 @@
 # 사용법
 
 python server.py
+
 python client.py
 
 # Update
