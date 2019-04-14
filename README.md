@@ -6,8 +6,8 @@
 
 # 사용법
 
-1. server.py 
-2. client.py
+python server.py
+python client.py
 
 # Update
 
